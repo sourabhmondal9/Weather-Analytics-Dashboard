@@ -186,7 +186,8 @@ Multiple pollutants are monitored together, providing a broader view of environm
 
 # 🖼️ Dashboard Preview
 
-Add the exported dashboard screenshot to the repository using the following structure:
+![Dashboard](Screenshots/weather-dashboard.png)
+---
 
 ```text
 Weather-Analytics-Dashboard/
