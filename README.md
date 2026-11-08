@@ -192,11 +192,14 @@ Multiple pollutants are monitored together, providing a broader view of environm
 ```text
 Weather-Analytics-Dashboard/
 │
-├── Weather Dashboard.pbix
-├── README.md
 │
-└── Screenshots/
-    └── weather-dashboard.png
+├──Backgrounds
+├──Datasets
+├──Icans
+├──Screenshots/
+│    └── weather-dashboard.png
+├── README.md
+└── Weather.pbix
 ```
 
 Then display it in the README:
