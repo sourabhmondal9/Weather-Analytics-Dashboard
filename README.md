@@ -194,8 +194,28 @@ Weather-Analytics-Dashboard/
 │
 │
 ├──Backgrounds
+│    ├── Group 1 (58).png
+│    ├── Group 1 (61).png
+│    ├── Group 2 (26).png
+│    ├── Group 2 (28) (2).png
+│    └── Group 3 (16) (1).png
 ├──Datasets
+│    ├── Current.xlsx
+│    ├── Forcast_Day.xlsx
+│    ├── Forcast_Hour.xlsx
+│    └── MasterReport.xlsx
 ├──Icans
+│    ├── daytime.png
+│    ├── humidity.png
+│    ├── location (2).png
+│    ├── rain.png
+│    ├── sunrise (1).png
+│    ├── sunrise.png
+│    ├── thermometer (1).png
+│    ├── uv-index.png
+│    ├── visibility.png
+│    ├── windy.png
+│    └── witness.png
 ├──Screenshots/
 │    └── weather-dashboard.png
 ├── README.md
@@ -217,7 +237,7 @@ The dashboard provides an interactive view of weather conditions, temperature fo
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/weather-analytics-dashboard.git
+git clone
 ```
 
 ### 2. Open the Project
